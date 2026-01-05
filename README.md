@@ -1,4 +1,4 @@
-# MTrack - Official Website
+# MTrack - Website
 
 This repository contains the **official single-page website** for **MTrack**, a private, offline-first personal finance desktop application.
 
@@ -15,10 +15,10 @@ There is **no backend**, **no tracking**, and **no analytics**.
 
 ## Live Website
 
-The website is hosted on Vercel:
+The website is hosted on Netlify:
 
 ```
-https://mtrack-website.vercel.app
+https://mtrackfinance.netlify.app
 ```
 
 (Exact URL may vary depending on deployment.)
