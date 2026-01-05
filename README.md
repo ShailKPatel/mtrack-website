@@ -1,4 +1,4 @@
-# MTrack — Official Website
+# MTrack - Official Website
 
 This repository contains the **official single-page website** for **MTrack**, a private, offline-first personal finance desktop application.
 
@@ -58,7 +58,7 @@ If you are tired of finance apps that require sign-ups, sync your data, or lock 
 
 ---
 
-## 🛠 Tech Stack (Website)
+## Tech Stack (Website)
 
 This website is intentionally simple:
 
